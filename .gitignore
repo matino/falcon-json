@@ -1,0 +1,24 @@
+# IDE files
+/.settings
+/.project
+/.pydevproject
+/.idea
+/*.sublime-project
+/*.sublime-workspace
+*.swp
+/.python-version
+*~
+
+# Python compiled files
+__pycache__
+*.py[cod]
+
+# Python packages
+*.egg-info
+dist
+build
+
+# Tests
+.cache
+.coverage
+htmlcov
